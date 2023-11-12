@@ -1076,7 +1076,7 @@ msgstr "Adopte su firma"
 #: code:addons/web/static/src/core/emoji_picker/emoji_data.js:0
 #, python-format
 msgid "Africa"
-msgstr "Africa"
+msgstr "África"
 
 #. module: web
 #. odoo-javascript
